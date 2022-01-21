@@ -18,3 +18,6 @@ This is a table of files on this repository and a brief description on each.
 | [symboltest.lisp](symboltest.lisp)| Show that symbols are case-insensitive |
 | [localvar.lisp](localvar.lisp)| Some examples of using local variables and local functions. |
 | [numbergame.lisp](numbergame.lisp)| A simple number guessing game using global variables and functions.|
+| [commentconv.lisp](commentconv.lisp)| Comment convention example for lisp|
+| [lists](lists.lisp)| Some list and list function examples.|
+
