@@ -21,3 +21,4 @@ This is a table of files on this repository and a brief description on each.
 | [commentconv.lisp](commentconv.lisp)| Comment convention example for lisp|
 | [lists.lisp](lists.lisp)| Some list and list function examples.|
 | [conditional.lisp](conditional.lisp)| Conditional examples.|
+| [findfirst.lisp](findfirst.lisp)| A function to find the first atom and a function to find the first non-atom.|

@@ -1,6 +1,8 @@
-;;;;
+;;;; number game
 ;;; you can load this file by pasting the following into CLISP:
 ;;; (load "numbergame.lisp")
+;;; Think of a number 1-100 then
+;;; start by typing (start-over) then either type (bigger) or (smaller)
 (defparameter *small* 1); global var/ top level definition
 (defparameter *big* 100); ** are called earmuffers, lispers like to make global variables with these
 ;;; defvar will not overwrite a value but defparameter will
